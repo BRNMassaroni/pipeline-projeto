@@ -1,4 +1,4 @@
-﻿# Desafio Técnico - Squad WhatsApp (Prefeitura do Rio)
+﻿# Desafio Técnico - Squad WhatsApp
 
 ## 🎯 Objetivo
 Otimizar a inteligência de escolha de telefones para disparos de WhatsApp, mitigando o problema de multiplicidade de registros no Registro Municipal Integrado (RMI) da Prefeitura do Rio. O objetivo central é garantir maior taxa de entrega, eficiência de custos e otimização das janelas de comunicação com o cidadão.
